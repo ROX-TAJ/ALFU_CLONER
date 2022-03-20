@@ -16,4 +16,4 @@ git clone https://github.com/ROX-TAJ/ALFU_CLONER.git
 
 cd ALFU_CLONER
 
-python2 alfejastnow.py
+python2 ALFUJASTNOW.py
